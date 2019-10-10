@@ -1,7 +1,9 @@
-html { 
-  background: url(https://raw.githubusercontent.com/dantaki/dantaki.github.io/master/eagle_stack_raw_ABE1.github.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
+
+.fstPage {
+    background-image:url("https://raw.githubusercontent.com/dantaki/dantaki.github.io/master/eagle_stack_raw_ABE1.github.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
 }
