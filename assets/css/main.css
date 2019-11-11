@@ -1605,7 +1605,6 @@
 /* Type */
 
 	body, input, select, textarea {
-		/*color: #9a9a9a;*/
 		color: #5b5b5b;
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
@@ -1672,7 +1671,6 @@
 	}
 
 	p {
-		color: #5b5b5b;
 		margin: 0 0 2em 0;
 	}
 
@@ -1880,7 +1878,7 @@
 		}
 
 	header p {
-		color: #bbb;
+		color: #696969;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
