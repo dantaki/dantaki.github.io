@@ -2,12 +2,6 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Raleway:100,300,600";
 
-/*
-	Theory by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
  /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
   background-color: #a7a7a7;
@@ -1611,7 +1605,8 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #9a9a9a;
+		/*color: #9a9a9a;*/
+		color: #5b5b5b;
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
